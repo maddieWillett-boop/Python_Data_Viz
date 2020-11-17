@@ -2,7 +2,7 @@
 ---
 name: 'Python_DataViz'
 description: 'Use python to create basic graphs and visualizations with real data'
-author: '@maddieWillett-boop'
+author: '@willettmm'
 ---
 ```
 
